@@ -52,4 +52,5 @@ Contributions are welcome! Follow these steps:
 📜 This project is licensed under the MIT License.
 
 ## 📞 Contact
-📩 For queries or suggestions, reach out to K J Justin.
+📩 For queries or suggestions, reach out to [K J Justin](https://github.com/Kjjustin/AI-POWERED-CAREER-GUIDANCE-SYSTEM-USING-CLASSIFICATION-TECHNIQUE/issues).
+
